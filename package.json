@@ -1,0 +1,26 @@
+{
+  "name": "directory-explorer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@inquirer/prompts": "^7.1.0",
+    "@types/jest": "^29.5.14",
+    "D": "^1.0.0"
+  }
+}
